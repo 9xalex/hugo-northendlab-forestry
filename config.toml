@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Hugo Northendlab Forestry starter"
 theme = "github.com/themefisher/northendlab-hugo"
+relativeURLs = true
 paginate = "5"
 summaryLength = "10"
 disqusShortname = "" # get your shortname form here : https://disqus.com
